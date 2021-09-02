@@ -24,6 +24,7 @@
 #include <string>
 #include <vector>
 #include <codecvt>
+#include <locale>
 
 #include "leveldb/env.h"
 #include "leveldb/slice.h"
