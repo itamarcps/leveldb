@@ -7,6 +7,8 @@
 #include "port/port.h"
 #include "util/env_windows_test_helper.h"
 #include "util/testutil.h"
+#include <codecvt>
+#include <locale>
 
 namespace leveldb {
 
